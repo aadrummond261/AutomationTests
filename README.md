@@ -48,7 +48,7 @@ Ensures the system handles incorrect passwords properly.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/AutomationTests.git
+git clone https://github.com/aadrummond261/AutomationTests.git
 2. Open the project
 Open the project in IntelliJ IDEA.
 3. Install dependencies
